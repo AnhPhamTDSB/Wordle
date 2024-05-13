@@ -1,6 +1,6 @@
 import java.util.Random;
 public class WordleGame {
-    private static final String[] wordBank = {"WORLD", "HELLO", "MESSI", "MESSY", "MUSIC", "FLOOD", "DREAM", "ADULT", "JIMIN", "ABUSE" ,"EAGLE", "BLACK", "SMACK", "SPERM", "WHALE", "QUEEN", "ERROR", "CRASH", "SPIKE", "DANDY"};
+    private static final String[] wordBank = {"WORLD", "HELLO", "MESSI", "MESSY", "MUSIC", "FLOOD", "DREAM", "ADULT", "JIMIN", "ABUSE" ,"EAGLE", "BLACK", "SMACK", "WHALE", "QUEEN", "ERROR", "CRASH", "SPIKE", "DANDY"};
     private static final int MAX_ATTEMPTS = 6;
 
     private String answer;
